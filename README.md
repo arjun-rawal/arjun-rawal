@@ -7,3 +7,4 @@ _9th grader at Providence Day High School_
   -Favorite language: javascript(typescript sucks)
   -Favorite code editor: VS code
   
+[![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun-rawal)](https://github.com/anuraghazra/github-readme-stats)
