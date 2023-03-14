@@ -9,4 +9,4 @@ _9th grader at Providence Day High School_
     
 [![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun-rawal&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-rawal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-rawal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
