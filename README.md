@@ -13,6 +13,6 @@ _9th grader at Providence Day High School_
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-rawal&show_icons=true&theme=jolly"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-rawal&layout=compact&theme=jolly"/>
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-rawal&layout=compact&theme=jolly"/>
   </a>
  </p>
