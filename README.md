@@ -1,7 +1,6 @@
-### :sparkles: Arjun Rawal :sparkles:
+### 🥇 Arjun Rawal 🥖
 _9th grader at Providence Day High School_  
-  
-  -Currently working on the "becomebetter" app for the congressional app challenge 2023 and AP CSP app submission  
+  -Working on a personal portfolio, application for TutorLion, and an ai application  
   -Owner and Founder of TutorLion, a business that provides tutoring services taught by local high-schoolers. Check out tutor-lion.com for more info  
   -I enjoy working on websites and apps using React and React Native  
   -arjunrawal.vercel.app in development  
