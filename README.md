@@ -1,9 +1,8 @@
 ### 🥇 Arjun Rawal 🥖
-_9th grader at Providence Day High School_  
-  -Working on a personal portfolio, application for TutorLion, and an ai application  
-  -Owner and Founder of TutorLion, a business that provides tutoring services taught by local high-schoolers. Check out tutor-lion.com for more info  
-  -I enjoy working on websites and apps using React and React Native  
-  -arjunrawal.vercel.app in development  
+_11th grader at North Carolina School of Science and Mathematics_
+  -Websites and Apps using React
+  -Founder of TutorLion(tutor-lion.com)  
+  -I enjoy working on websites and apps using React and React Native   
   -experimenting with three.js
 
 <p>
