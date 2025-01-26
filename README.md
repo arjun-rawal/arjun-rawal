@@ -6,9 +6,9 @@ _11th grader at North Carolina School of Science and Mathematics_
   -experimenting with three.js
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-rawal&theme=jolly" />
-  </a>
+  </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-rawal&layout=compact&theme=jolly" />
   </a>
